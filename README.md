@@ -10,6 +10,6 @@
  ![Path Tracing](image/blur-screen.png)
  
  ## Reference
- [Online book](https://raytracing.github.io/books/RayTracingInOneWeekend.html#defocusblur/generatingsamplerays)
+ [Online book](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
  
  
